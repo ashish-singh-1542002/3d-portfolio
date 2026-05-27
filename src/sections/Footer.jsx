@@ -10,7 +10,7 @@ const Footer = () => {
 
         {/* Right - LinkedIn */}
         <a
-          href="https://www.linkedin.com/in/ashish-singh-15"
+          href="https://www.linkedin.com/in/ashish-singh-b27173236/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 px-4 py-2 rounded-lg border border-white/10 hover:border-white/30 hover:bg-white/5 transition-all text-white/60 hover:text-white text-sm"
