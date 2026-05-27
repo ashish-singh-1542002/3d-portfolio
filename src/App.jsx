@@ -1,5 +1,5 @@
 import ShowcaseSection from "./sections/ShowcaseSection";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Hero from './sections/Hero.jsx'
 import TechStack from "./sections/TechStack";
 import LogoShowcase from "./sections/LogoSection.jsx";
